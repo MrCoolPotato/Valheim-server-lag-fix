@@ -1,0 +1,5 @@
+Put the dll file in to this path 
+
+
+
+C:\valheimserver\valheim_server_Data\Managed   <-------
